@@ -1,0 +1,7 @@
+{
+  "name": "InstaGrow",
+  "description": "Instagram Post and Page Analyzer with AI engagement audit, caption hook enhancer, hashtag recommendations, and growth strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
